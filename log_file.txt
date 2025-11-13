@@ -1,0 +1,4 @@
+2025-11-13 20:12:43.781 | INFO     | __main__:<module>:48 - first function call :
+2025-11-13 20:12:43.782 | INFO     | __main__:generic_logging:45 - status=success | status_code=200 | message=successfully
+2025-11-13 20:12:43.782 | ERROR    | __main__:<module>:51 - second function call :
+2025-11-13 20:12:43.782 | INFO     | __main__:generic_logging:45 - status=fail | status_code=501 | error=db connection fail
