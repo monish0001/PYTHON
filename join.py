@@ -1,11 +1,13 @@
-# list =["A","B","C","D","E","F","G"]
+list =["A","B","C","D","E","F","M"]
 
+# result='#'.join(list)
+# print(result)
 
-# result="";
+result="";
 
 
 # for item in list:
-#     result=result+item
+#     result=result+'$'+item
     
 # print(result)
 
@@ -15,7 +17,9 @@
 # result ="".join(list)
 # print(result)
 
-
+# list =[1,2,3,4,5,6,78,9,0]
+# result ="".join(list)
+# print(result)
 
 # list =[1,2,3,4,5,6,78,9,0]
 # result ="".join(str(list))
