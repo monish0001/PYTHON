@@ -115,3 +115,39 @@ logger.info(letter_count)
 
 
     
+# 1. Supports Useful Methods
+# dict.keys()
+# dict.values()
+# dict.items()
+# get()
+# update()
+# pop()
+# clear()
+# 2.Fast Lookups (Hash Table)
+# Accessing or checking a key is O(1) on average
+# 3.No Indexing by Position
+# You cannot access items by integer index (like lists).
+# 4.Ordered (Python 3.7+)
+# Dictionaries preserve insertion order.
+# 5.Mutable
+# You can change a dictionary by adding, updating, or deleting items.
+# 6.Keys Must Be Immutable (Hashable)
+# You can use:
+# strings
+# numbers
+# tuples
+# But not:
+# lists
+# sets
+# dictionaries
+# 7.Values Can Be Any Type
+# Values can be:
+# lists
+# other dictionaries
+# functions
+# objects
+# any Python type
+# 8.Stores Data as Key–Value Pairs
+# A dictionary maps each key to a value.
+# 9.Keys Must Be Unique
+# No two keys in a dictionary can be the same.
